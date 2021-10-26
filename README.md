@@ -16,6 +16,6 @@ python train_single.py
 python test_single.py
 
 # case_study
-python case_study.py (for single case study)
+python case_study.py (for single case study)  
 python plot_data/case_study_all.py (for all case study)
 
