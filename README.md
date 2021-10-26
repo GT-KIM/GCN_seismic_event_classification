@@ -1,6 +1,8 @@
 # GCN_seismic_event_classification
 Seismic event classification using GCN
 
+![image1](./image/figure.png)
+
 # Dependencies
 Pytorch, DGL, Numpy, Obspy
 # Train GCN model
